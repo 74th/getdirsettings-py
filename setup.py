@@ -8,7 +8,7 @@ setuptools.setup(
     version="1.0.0",
     author="74th",
     author_email="site@j74th.com",
-    description="simple setting getter",
+    description="simple setting json getter",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/74th/settingsjson-py",

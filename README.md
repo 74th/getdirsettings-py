@@ -1,6 +1,6 @@
 # settingsjson.py
 
-simple setting file getter
+simple setting json getter
 
 ## how to use
 
