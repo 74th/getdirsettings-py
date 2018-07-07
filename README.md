@@ -1,5 +1,7 @@
 # settingsjson.py
 
+[![PyPI](https://img.shields.io/pypi/v/settingsjson.svg)](https://pypi.org/project/settingsjson/)
+
 simple setting json getter
 
 ## how to use
