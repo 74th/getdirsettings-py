@@ -1,1 +1,1 @@
-import settingsjson
+from settingsjson import get

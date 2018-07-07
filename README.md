@@ -20,9 +20,9 @@ pip install settingsjson
 
 ```py
 from sqlalchemy import create_engine
-import jsonsettings
+import settingsjson
 
-settings = jsonsettings.get()
+settings = settingsjson.get()
 db = create_engine(settings["DB_PATH"])
 ```
 
