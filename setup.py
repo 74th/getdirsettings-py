@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="settingsjson",
-    version="1.0.0",
+    version="1.0.1",
     author="74th",
     author_email="site@j74th.com",
     description="getter simple setting json",
