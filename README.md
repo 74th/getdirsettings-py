@@ -1,5 +1,7 @@
 # settingsjson.py
 
+[![PyPI](https://img.shields.io/pypi/v/settingsjson.svg)](https://pypi.org/project/settingsjson/)
+
 simple setting json getter
 
 ## how to use
@@ -20,9 +22,9 @@ pip install settingsjson
 
 ```py
 from sqlalchemy import create_engine
-import jsonsettings
+import settingsjson
 
-settings = jsonsettings.get()
+settings = settingsjson.get()
 db = create_engine(settings["DB_PATH"])
 ```
 
