@@ -14,7 +14,7 @@ pip install settingsjson
 
 ```JSON
 {
-	"DB_PATH": "postgresql://user:seacret@host:port/dbname"
+	"DB_PATH": "postgresql://user:secret@host:port/dbname"
 }
 ```
 
